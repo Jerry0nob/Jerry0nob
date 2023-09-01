@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @Jerry0nob
-- 👀 I’m interested in --
-- 🌱 I’m currently learning python (noobie)
-- 💞️ I’m looking to collaborate on --
-- 📫 You wouldn't like to reach me  
+- 👋 Hi, I’m Eric @Jerry0nob
+- 👀 I’m currently beginner in C language
+- 💞️ I’m looking for best way to understand complexity of mythical programming  
 
 <!---
 Jerry0nob/Jerry0nob is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
