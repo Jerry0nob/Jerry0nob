@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Eric @Jerry0nob
-- 👀 I’m currently beginner in C language
-- 💞️ I’m looking for best way to understand complexity of mythical programming  
+- 👀 I’m currently beginner in C language and Python
+- 💞️ I am looking for professional practice as an IT student  
 
 <!---
 Jerry0nob/Jerry0nob is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
